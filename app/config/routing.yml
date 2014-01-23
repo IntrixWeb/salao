@@ -1,3 +1,7 @@
+profissional:
+    resource: "@ProfissionalBundle/Resources/config/routing.yml"
+    prefix:   /
+
 tema:
     resource: "@TemaBundle/Resources/config/routing.yml"
     prefix:   /
