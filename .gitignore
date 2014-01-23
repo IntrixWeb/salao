@@ -9,3 +9,7 @@
 /vendor/
 /bin/
 /composer.phar
+/src/Intrix/TemaBundle/Resources/public/css/*
+/src/Intrix/TemaBundle/Resources/public/js/*
+/src/Intrix/TemaBundle/Resources/public/images/
+!/src/Intrix/TemaBundle/Resources/public/js/main.js
