@@ -1,0 +1,4 @@
+tema:
+    resource: "@TemaBundle/Resources/config/routing.yml"
+    prefix:   /
+
